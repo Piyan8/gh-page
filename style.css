@@ -1,0 +1,14 @@
+:root{
+  --primary: white;
+}
+
+
+*{
+  font-family: 'Poppins';
+  box-sizing: border-box;
+}
+
+.d{
+  border: 2px solid purple;
+  
+}
